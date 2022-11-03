@@ -18,12 +18,7 @@ header h1 a:hover {
 }
 #logo {
   padding: 10px;
-  display: inline-block;
-  width: 100%;
-  font-weight: bold;
-  text-decoration: none;
-  color: #fff;
-  padding: 8px 0;
+  color: white;
 }
 nav li a:hover {
   color: #7e8aa2;
